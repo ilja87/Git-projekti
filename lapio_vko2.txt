@@ -1,2 +1,3 @@
+tama on uusi rivi GitHubissa lisatty. Kokeillaan stash komentoa
 tama rivi on lisatty GitHubissa
 tama on Lapion toinen osa
