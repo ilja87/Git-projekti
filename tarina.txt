@@ -1,4 +1,4 @@
-opettelen,
+opettelen, commit
 käyttämään,
 git,
 versionhallinta työkalua,
