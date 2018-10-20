@@ -6,3 +6,4 @@ ja,
 GitHubia,
 Etärepositoriona
 Muutos
+Paikallisessa luotu
