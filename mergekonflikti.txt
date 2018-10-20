@@ -3,3 +3,4 @@ Tiedosto
 On
 Mergekonfliktia
 Varten
+Tama rivi on lisatty GitHubissa
