@@ -1,0 +1,11 @@
+kahvia,
+teetä,
+hunajaa,
+keksejä,
+kalapuikkoja,
+nuudeleita,
+lihapullia,
+pizzaa,
+pyttipannua,
+maitoa,
+kahvinsuodatinpapereita
