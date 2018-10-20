@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-
 Tama rivi on lisatty etarepositoriossa
-=======
+
 Tama rivi on lisatty paikallisessa repositoriossa
->>>>>>> Stashed changes
+
