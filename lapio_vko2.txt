@@ -6,3 +6,8 @@ ja GitHubissa olevaa muutosta ei ole paikallisessa repositoriossa
 
 Miten stash toimii?
 Tämä rivi on paikallisessa repositoriossa. Tehdään mergekonflikti,Tama rivi on Githubissa tehty. Tehdaan mergekonflikti
+
+
+
+
+terveisia GitHubista
