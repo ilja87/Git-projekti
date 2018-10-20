@@ -8,4 +8,5 @@ lihapullia,
 pizzaa,
 pyttipannua,
 maitoa,
-kahvinsuodatinpapereita
+kahvinsuodatinpapereita,
+paikallisessa repositoriossa lisatty rivi
