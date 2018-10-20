@@ -11,3 +11,6 @@ Tämä rivi on paikallisessa repositoriossa. Tehdään mergekonflikti,Tama rivi 
 
 
 terveisiä paikallisesta repositoriosta
+
+terveisia GitHubista
+
