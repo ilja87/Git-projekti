@@ -3,3 +3,4 @@ Tiedosto
 On
 Mergekonfliktia
 Varten
+Tama on lisatty paikallisessa repositoriossa
