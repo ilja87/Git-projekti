@@ -3,4 +3,7 @@ Tiedosto
 On
 Mergekonfliktia
 Varten
+
 Tama on lisatty paikallisessa repositoriossa
+Tama rivi on lisatty GitHubissa
+
