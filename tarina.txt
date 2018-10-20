@@ -1,0 +1,7 @@
+opettelen,
+käyttämään,
+git,
+versionhallinta työkalua,
+ja,
+GitHubia,
+Etärepositoriona
